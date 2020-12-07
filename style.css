@@ -1,0 +1,7 @@
+a {color:black; text-decoration: none;}
+h1 {font-size:50px; border-bottom: 1px solid grey; margin:0; padding:20px;}
+h2 {border:3px solid pink; color:grey; padding:10px;}
+body {text-align: center; margin:0;}
+ul {text-align:left; border-right:1px solid grey; width:100px; margin:0; padding:20px; padding-left:33px;}
+#grid {display:grid; grid-template-columns: 150px 1fr;}
+#article {padding-left:25px;}
