@@ -14,7 +14,7 @@ var Links = {
  function nightDayHandler(self){
    var target = document.querySelector('body');
    if (self.value === 'night') {
-   Body.setBackgroundColor('black');
+   Body.setBackgroundColor('#323232');
    Body.setColor('white');
    self.value = 'day' ;
    Links.setColor('white');
